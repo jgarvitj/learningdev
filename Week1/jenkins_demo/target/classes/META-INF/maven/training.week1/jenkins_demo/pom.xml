@@ -1,0 +1,8 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>training.week1</groupId>
+  <artifactId>jenkins_demo</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>Setting up CI/CD</name>
+  <description>a basic project to enable CI</description>
+</project>
